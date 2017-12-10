@@ -1,0 +1,17 @@
+
+.modal {
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(10,10,10,0.7);
+    border-radius: 5px;
+    padding: .5em;
+}
+
+.button-text {
+  background-image: url('temp-icon.svg');
+  background-position: 0 0;
+  padding-left: 15px;
+  margin-right: 3px;
+  margin-left: 3px;
+}
